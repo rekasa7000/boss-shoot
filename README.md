@@ -43,6 +43,7 @@ Boss Shoot is a 2D/3D game developed in Unity that challenges players with:
 
 3. Press Play in the Unity Editor to start testing.
 
+
 🙌 Credits
-  Game Template: Sunny Valley Studio's Incremental Game Template. https://courses.sunnyvalleystudio.com/p/incremental-game-template-unity-2022
-  Assets used: MattWalkden's Robot Warfare Asset Pack. https://mattwalkden.itch.io/free-robot-warfare-pack
+- Game Template: Sunny Valley Studio's Incremental Game Template. https://courses.sunnyvalleystudio.com/p/incremental-game-template-unity-2022
+- Assets used: MattWalkden's Robot Warfare Asset Pack. https://mattwalkden.itch.io/free-robot-warfare-pack
