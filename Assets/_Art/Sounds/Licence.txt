@@ -1,0 +1,2 @@
+sounds with number / index are from https://freesound.org/ and are selected from CC0 ones
+Other sounds (shorter names) are from: https://github.com/sparklinlabs/superpowers-asset-packs

@@ -1,0 +1,59 @@
+# Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Uncomment this if you have a custom build folder
+# [Bb]in/
+
+# Auto-generated VS/JetBrains files
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity metadata
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity cache
+*.apk
+*.aab
+*.unitypackage
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Crashlytics / Analytics
+crashlytics-build.properties
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# Optional - Asset store tools (if unused)
+Assets/AssetStoreTools*
+
+# Builds (if you don't want to track output builds)
+Builds/
+
+# Unity Collaborate (if using Git instead)
+.collabignore
+
+# Plastic SCM
+.plastic/
+ignore.conf
+
