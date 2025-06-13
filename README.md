@@ -4,22 +4,16 @@
 
 ## 🧠 About
 
-Boss Shoot is a 2D/3D game developed in Unity that challenges players with:
-- Intense boss battles
-- Unique enemy mechanics
-- Increasing difficulty levels
-- Fast reflex-based gameplay
+Boss Shoot is a simple 2D incremental game developed in Unity.
 
 ## 🕹️ Features
 
-- Multiple boss types with different attack patterns
-- Health, power-up, and score systems
 - Minimalist UI and responsive controls
 - Retro-styled visuals and sounds (customizable)
 
 ## 🛠 Built With
 
-- [Unity](https://unity.com/) (version X.X.X)
+- [Unity](https://unity.com/) (version 6.1)
 - C# scripting
 - [TextMesh Pro](https://docs.unity3d.com/Packages/com.unity.textmeshpro@2.1/manual/index.html) (for crisp UI text)
 
@@ -27,7 +21,7 @@ Boss Shoot is a 2D/3D game developed in Unity that challenges players with:
 
 ### Prerequisites
 
-- Unity Editor (version X.X.X or later)
+- Unity Editor (version 6000.1.7 or later)
 - Git (optional for cloning)
 
 ### Installation
@@ -45,5 +39,6 @@ Boss Shoot is a 2D/3D game developed in Unity that challenges players with:
 
 
 🙌 Credits
+
 - Game Template: Sunny Valley Studio's Incremental Game Template. https://courses.sunnyvalleystudio.com/p/incremental-game-template-unity-2022
 - Assets used: MattWalkden's Robot Warfare Asset Pack. https://mattwalkden.itch.io/free-robot-warfare-pack
