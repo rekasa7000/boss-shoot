@@ -28,7 +28,7 @@ Boss Shoot is a simple 2D incremental game developed in Unity.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/boss-shoot.git
+   git clone https://github.com/rekasa7000/boss-shoot.git
 2. Open the project in Unity:
 
     Launch Unity Hub
